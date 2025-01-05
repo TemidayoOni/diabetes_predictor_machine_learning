@@ -1,6 +1,7 @@
 pandas
 numpy
 seaborn
-
+imblearn
 scikit-learn
+dill
 -e .
